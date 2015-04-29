@@ -1,0 +1,21 @@
+{
+  "name": "curbly-editor",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies" : {
+    "mocha" : "*",
+    "chai" : "*",
+    "sinon" : "*",
+    "grunt" : "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-sprockets-directives": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-jasmine": "*",
+    "matchdep": "*",
+    "grunt-mocha-test": "*"
+  }
+}

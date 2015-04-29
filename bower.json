@@ -1,0 +1,25 @@
+{
+  "name": "curbly-editor",
+  "description": "RTE for curbly",
+  "main": ["dist/js/curbly-editor.js", "dist/css/curbly-editor.css"],
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": ">=1.9.0",
+    "medium-editor": "~4.6.0",
+    "medium-editor-insert-plugin": "^1.5.1",
+    "medium-editor-tables": "",
+    "timeago": "",
+    "rangy": "",
+    "jquery-observe": "~2.0.1",
+    "jquery-ui": "~1.11.4",
+    "fontawesome": "~4.3.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
