@@ -4,3 +4,4 @@
 _SpecRunner.html
 build
 .jshintrc
+node_modules
